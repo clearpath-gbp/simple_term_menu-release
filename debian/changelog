@@ -1,0 +1,8 @@
+ros-humble-simple-term-menu (1.5.2-1jammy) jammy; urgency=high
+
+  * Initial ROS package
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 28 Nov 2022 05:00:00 -0000
+
+
